@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/connect.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/application-exit.png</file>
+        <file>images/settings.png</file>
+        <file>images/clear.png</file>
+        <file>images/plot.png</file>
+        <file>drzwi_2.png</file>
+        <file>okno_1.png</file>
+        <file>okno_2.png</file>
+        <file>zarowka_1.png</file>
+        <file>zarowka_2.png</file>
+        <file>drzwi_1.png</file>
+    </qresource>
+</RCC>
